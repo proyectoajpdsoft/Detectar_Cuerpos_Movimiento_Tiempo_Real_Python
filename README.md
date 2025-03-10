@@ -1,2 +1,1 @@
-# Detectar_Cuerpos_Movimiento_Tiempo_Real_Python
- Detectar cuerpos en movimiento en tiempo real con Python
+Ejemplo de script Python para detectar posibles cuerpos humanos en un vídeo o en una WebCam en tiempo real. La aplicación dibuja un recuadro azul en cada cuerpo detectado en cada frame del vídeo/webcam en tiempo real. Más información en: https://proyectoa.com/detectar-cuerpos-en-movimiento-en-tiempo-real-python/
